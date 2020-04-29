@@ -24,7 +24,7 @@ module.exports.validatePlate = (plate, date, hour) => {
 			case 4:
 				return lastNumber === 7 || 8;
 				break;
-			case 5 || 6:
+			case 5:
 				return lastNumber === 9 || 0;
 				break;
 			default:
