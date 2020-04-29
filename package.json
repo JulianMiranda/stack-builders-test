@@ -1,0 +1,15 @@
+{
+	"name": "stack-builders-test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"author": "Julian Miranda Uria",
+	"license": "ISC",
+	"dependencies": {
+		"inquirer": "^7.1.0",
+		"moment": "^2.24.0"
+	}
+}
